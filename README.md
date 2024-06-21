@@ -1,7 +1,3 @@
-Sure, here's the updated README reflecting that it's an ongoing project:
-
----
-
 # DEVCON Iloilo Portal
 
 Welcome to the DEVCON Iloilo Portal! This project is built using Next.js and deployed on ICP Hub. This README provides a comprehensive guide on how to set up, develop, and deploy the project.
